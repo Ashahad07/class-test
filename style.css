@@ -219,6 +219,11 @@ body {
     display: flex;
     align-items: center;
     background: #043873;
+    color: #FFFFFF;
+}
+.third-container .third-contain {
+ 
+    color: #FFFFFF;
 }
 
 .third-contain {
