@@ -406,6 +406,15 @@ body {
     background-color: #4F9CF9;
     border-radius: 5px;
     color: #FFFFFF;
+    transition: all 1s;
+}
+.first-card:hover{
+    /* border: 2px solid red; */
+    width: 25vw;
+    padding: 2vw 3vw;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: #000;
 }
 .first-card img{
     width: 5vw;
@@ -433,6 +442,15 @@ body {
     background-color: #4F9CF9;
     border-radius: 5px;
     color: #FFFFFF;
+    transition: all 1s;
+
+}
+.second-card:hover{
+    width: 25vw;
+    padding: 2vw 3vw;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: #000;
 }
 .second-card img{
     width: 5vw;
@@ -462,6 +480,15 @@ body {
     background-color: #4F9CF9;
     border-radius: 5px;
     color: #FFFFFF;
+    transition: all 1s;
+
+}
+.third-card:hover{
+    width: 25vw;
+    padding: 2vw 3vw;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    color: #000;
 }
 .third-card img{
     width: 5vw;
