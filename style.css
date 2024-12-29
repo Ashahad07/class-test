@@ -117,7 +117,7 @@ body {
 .img1 {
     height: 400px;
     width: 600px;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR132TBAD0-GhGhN8_2Xr-3obkFd4NzFbk6Hg&s");
+    background-image: url("https://media.istockphoto.com/id/1456339578/photo/developing-programming-and-coding-technologies-professional-developer-programmer-cooperation.jpg?s=1024x1024&w=is&k=20&c=w1UASpIaHsVZ6WkBF1b7vKatyOT652BxX0X1eLfDcR0=");
     background-size: cover;
 }
 
@@ -201,13 +201,15 @@ body {
 .img2 {
     height: 400px;
     width: 600px;
-    background-image: url("https://images.pexels.com/photos/220067/pexels-photo-220067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: url("https://images.unsplash.com/photo-1735258083208-564747ddb1c6?q=80&w=1475&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
 }
 
 .img3 {
     height: 400px;
     width: 600px;
-    background-image: url("https://images.pexels.com/photos/547114/pexels-photo-547114.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-image: url("https://images.unsplash.com/photo-1601758124096-1fd661873b95?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
 }
 
 
